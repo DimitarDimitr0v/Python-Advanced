@@ -1,4 +1,4 @@
-from project.vehicle import Vehicle
+from ss.vehicle import Vehicle
 
 
 class Motorcycle(Vehicle):

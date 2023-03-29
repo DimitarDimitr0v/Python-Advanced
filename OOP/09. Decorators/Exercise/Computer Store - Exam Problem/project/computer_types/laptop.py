@@ -1,4 +1,4 @@
-from project.computer_types.computer import Computer
+from ss.computer_types.computer import Computer
 
 
 class Laptop(Computer):

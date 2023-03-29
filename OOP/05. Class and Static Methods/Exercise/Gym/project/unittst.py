@@ -1,9 +1,9 @@
-from project.customer import Customer
-from project.equipment import Equipment
-from project.exercise_plan import ExercisePlan
-from project.gym import Gym
-from project.subscription import Subscription
-from project.trainer import Trainer
+from ss.customer import Customer
+from ss.equipment import Equipment
+from ss.exercise_plan import ExercisePlan
+from ss.gym import Gym
+from ss.subscription import Subscription
+from ss.trainer import Trainer
 
 import unittest
 

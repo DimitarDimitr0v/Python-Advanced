@@ -1,4 +1,4 @@
-from project.formula_teams.formula_team import FormulaTeam
+from ss.formula_teams.formula_team import FormulaTeam
 
 
 class MercedesTeam(FormulaTeam):

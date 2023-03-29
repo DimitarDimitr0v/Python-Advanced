@@ -1,4 +1,4 @@
-from project.motorcycle import Motorcycle
+from ss.motorcycle import Motorcycle
 
 
 class CrossMotorcycle(Motorcycle):

@@ -1,4 +1,4 @@
-from project.topping import Topping
+from ss.topping import Topping
 class Pizza:
     def __init__(self, name: str, dough, max_number_of_toppings: int):
         self.name = name

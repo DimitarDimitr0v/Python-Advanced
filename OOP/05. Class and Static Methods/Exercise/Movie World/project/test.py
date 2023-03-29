@@ -1,6 +1,6 @@
-from project.customer import Customer
-from project.dvd import DVD
-from project.movie_world import MovieWorld
+from ss.customer import Customer
+from ss.dvd import DVD
+from ss.movie_world import MovieWorld
 
 c1 = Customer("John", 16, 1)
 c2 = Customer("Anna", 55, 2)

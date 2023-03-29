@@ -1,4 +1,4 @@
-from project.wizard import Wizard
+from ss.wizard import Wizard
 
 
 class DarkWizard(Wizard):

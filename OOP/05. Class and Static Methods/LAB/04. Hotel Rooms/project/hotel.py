@@ -1,5 +1,5 @@
 from typing import List
-from project.room import Room
+from ss.room import Room
 
 
 class Hotel:

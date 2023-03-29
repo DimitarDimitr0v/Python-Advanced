@@ -1,5 +1,5 @@
-from project.topic import Topic
-from project.category import Category
+from ss.topic import Topic
+from ss.category import Category
 
 
 class Document:

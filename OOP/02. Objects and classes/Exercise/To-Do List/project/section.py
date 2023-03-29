@@ -1,4 +1,4 @@
-from project.task import Task
+from ss.task import Task
 
 
 class Section:

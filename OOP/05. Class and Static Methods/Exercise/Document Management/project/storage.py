@@ -1,8 +1,8 @@
 import inspect
 
-from project.category import Category
-from project.document import Document
-from project.topic import Topic
+from ss.category import Category
+from ss.document import Document
+from ss.topic import Topic
 
 
 class Storage:

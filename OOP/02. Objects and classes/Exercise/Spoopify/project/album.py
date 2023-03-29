@@ -1,5 +1,5 @@
 from typing import Tuple, List
-from project.song import Song
+from ss.song import Song
 
 
 class Album:

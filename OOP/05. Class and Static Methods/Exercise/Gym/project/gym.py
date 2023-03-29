@@ -1,8 +1,8 @@
-from project.customer import Customer
-from project.equipment import Equipment
-from project.subscription import Subscription
-from project.trainer import Trainer
-from project.exercise_plan import ExercisePlan
+from ss.customer import Customer
+from ss.equipment import Equipment
+from ss.subscription import Subscription
+from ss.trainer import Trainer
+from ss.exercise_plan import ExercisePlan
 
 
 class Gym:

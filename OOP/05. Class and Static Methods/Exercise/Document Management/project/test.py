@@ -1,7 +1,7 @@
-from project.category import Category
-from project.document import Document
-from project.storage import Storage
-from project.topic import Topic
+from ss.category import Category
+from ss.document import Document
+from ss.storage import Storage
+from ss.topic import Topic
 
 c = Category(1, "C")
 t = Topic(1, "T", "C:\\user")

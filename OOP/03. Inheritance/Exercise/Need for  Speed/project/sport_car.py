@@ -1,4 +1,4 @@
-from project.car import Car
+from ss.car import Car
 
 
 class SportCar(Car):
