@@ -42,3 +42,4 @@ class Movie:
                f"Year of Release: {self.year}\n" \
                f"Rating: {self.rating:.2f}\n" \
                f"Cast: {', '.join(self.actors)}"
+
