@@ -45,7 +45,8 @@ for item in sorted_items:
         print(f"{item[0]} - {item[1]}")
 
 if medicaments:
-    print(f"Medicaments left: {', '.join(str(x) for x in sorted(medicaments, reverse=True))}")
+    medicaments.reverse()
+    print(f"Medicaments left: {', '.join(map(str, medicaments))}")
 
 if textiles:
     print(f"Textiles left: {', '.join([str(x) for x in textiles])}")
